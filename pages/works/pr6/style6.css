@@ -1,0 +1,52 @@
+body{
+    background: skyblue;
+}
+header{
+    margin-bottom: 20px;
+}
+.nav{
+    background:rgb(136, 43, 43);
+    padding: 15px;
+}
+.nav a{
+    color:black;
+    text-decoration: none;
+    padding: 10px;
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 30px;
+}
+h4{
+    font-size: 18px;
+}
+*{
+    font-size: 16px;
+    font-family: arial;
+}
+.content{
+    display: flex;
+    gap: 20px;
+}
+main{
+    width: 70%;
+    background: green;
+}
+.sidebar{
+    width: 30%;
+    background: brown;
+    padding: 15px;
+}
+.section{
+    margin-bottom: 20px; /*Расстояние между разделами*/
+    padding: 10px;
+}
+.article{
+    padding: 10px;
+    background: white;
+}
+.footer{
+    background: yellow;
+}

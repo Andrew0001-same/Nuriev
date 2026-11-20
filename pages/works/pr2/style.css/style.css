@@ -1,0 +1,38 @@
+.back{
+    background-color: #fff7a8;
+    color: orange;
+    width: 270px;
+    padding: 15px 20px; 
+}
+.back h4{
+    margin: 0 0 10px 0;
+}
+.back ol{
+    margin: 0;
+    padding-left: 30px;
+}
+.back ol ol{
+    padding-left: 25px;
+}
+.back li{
+    margin: 2px 0;
+}
+.back li::marker {
+    color: black;
+}
+.back a{
+    text-decoration: none;
+    color: orange;
+}
+.code{
+    background-color: lightgrey;
+}
+.up{
+    position: fixed;
+    right: 20px; /*Отсутп справа*/
+    bottom: 20px; /*Отступ снизу*/
+    background-color: rgb(180, 220, 180, 0.5);
+    padding: 10px 15px;
+    color: purple;
+    text-decoration: underline;
+}

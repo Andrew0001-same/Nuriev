@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;           
+}
+td{             
+    padding: 5px; 
+}
+.text{
+    text-align: center;
+    vertical-align: middle;
+}
+.code{ 
+    list-style-type: circle; 
+    padding-left: 70px; 
+}
+.code1{ 
+    list-style-type: square; 
+    padding-left: 30px;
+}
+
